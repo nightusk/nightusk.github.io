@@ -1,8 +1,8 @@
-title: Your awesome title
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: 門前の小僧、他派の経を読む
+description: >-
+  本来は、門前の小僧、習わぬ経を読む。
+  日頃から見聞きしているものは、意識しなくても自然と知識や技術が身につく、という意味。
+  他派の経をわざわざ読むのは、日頃から見聞きしているものに対して客観的になるため
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://nightusk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
