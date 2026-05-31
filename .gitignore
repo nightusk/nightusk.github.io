@@ -3,3 +3,5 @@ Gemfile.lock
 _site
 config
 vendor
+_drafts
+.jekyll-metadata
